@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Shubham.
 
+![](https://github.com/ShubhamOjha/shubhamojha/blob/master/Screenshot%20from%202020-07-11%2019-25-26.png)
 
 **ShubhamOjha/shubhamojha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
