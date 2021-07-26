@@ -6,7 +6,7 @@ Thanks for finding me here. Let me tell you more about myself.
 
 ### About Me
 
-I'm a Software Developer Engineer with more than 2 years of Industry Experience. I am passionate about solving complex problems,learning latest advancements in technology and building new products. I'm most interested in working in Finance or AI Industry and most skilled in System Design, Algorithms, Data Structures and Mathematics.
+I'm a Software Engineer with around 4 years of Industry Experience. I am passionate about solving complex problems,learning latest advancements in technology and building new products. I'm most interested in working in Finance or AI Industry and most skilled in System Design, Algorithms, Data Structures and Mathematics.
 
 I am open for any open source project collaborations.
 
