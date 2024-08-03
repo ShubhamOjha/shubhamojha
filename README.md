@@ -1,7 +1,5 @@
 # Hi there! I'm Shubham Ojha 👋
 
-![Banner Image](https://github.com/ShubhamOjha/shubhamojha/blob/master/Screenshot%20from%2020XX-XX-XX%20XX-XX-XX.png)
-
 ## About Me
 
 I'm a seasoned Technical Lead with 6+ years of industry experience, specializing in AI and Generative AI technologies. My passion lies in architecting scalable solutions, diving into complex problem-solving, and staying at the forefront of technological advancements.
