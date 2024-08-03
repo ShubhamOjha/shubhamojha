@@ -1,17 +1,58 @@
-### Hi! I'm Shubham.
+# Hi there! I'm Shubham Ojha 👋
 
-![](https://github.com/ShubhamOjha/shubhamojha/blob/master/Screenshot%20from%202020-07-11%2019-25-26.png)
+![Banner Image](https://github.com/ShubhamOjha/shubhamojha/blob/master/Screenshot%20from%2020XX-XX-XX%20XX-XX-XX.png)
 
-Thanks for finding me here. Let me tell you more about myself.
+## About Me
 
-### About Me
+I'm a seasoned Technical Lead with 6+ years of industry experience, specializing in AI and Generative AI technologies. My passion lies in architecting scalable solutions, diving into complex problem-solving, and staying at the forefront of technological advancements.
 
-I'm a Software Engineer with around 4 years of Industry Experience. I am passionate about solving complex problems,learning latest advancements in technology and building new products. I'm most interested in working in Finance or AI Industry and most skilled in System Design, Algorithms, Data Structures and Mathematics.
+### 🚀 What I'm currently working on
 
-I am open for any open source project collaborations.
+- Developing GenAI API services using FastAPI and Azure Cosmos DB
+- Implementing RAG (Retrieval-Augmented Generation) chains with LangChain for enhanced document retrieval
+- Exploring the intersection of AI and finance for innovative solutions
 
-I recetly picked interested in competive coding and aiming to be an expert at it. When I am not coding or reading I spend my time watching anime or psychothrillers.
+### 💻 Tech Stack
 
-Want to connect? please reach out to me at twitter [@ShubhamOjha5](https://twitter.com/ShubhamOjha5). 
+- **Languages:** Python, JavaScript, Java
+- **Frameworks:** Django, FastAPI, React
+- **AI/ML:** TensorFlow, PyTorch, Langchain, Hugging Face Transformers
+- **Cloud:** AWS, Azure
+- **Databases:** PostgreSQL, MongoDB, Redis, Azure Cosmos DB
+- **DevOps:** Docker, Kubernetes, CI/CD pipelines
 
-I'll update this section soon, please stay tuned. Thanks again.
+### 🌟 Key Projects
+
+1. **GenAI Document Retrieval System**
+   - Developed a cutting-edge document retrieval system using RAG and LLMs
+   - Improved query understanding and result relevance by 40%
+
+2. **Real-time Analytics Platform**
+   - Built a scalable analytics platform using Elastic Search and Django
+   - Processed over 1M events/second with sub-second query response times
+
+3. **AI-Driven Ad Serving System**
+   - Architected a high-availability ad server with household-level personalization with the feedback mechanism
+   - Implemented machine learning models to optimize ad placement and targeting
+
+### 🎓 Continuous Learning
+
+- Currently diving deep into Large Language Models and their applications in business
+- Exploring quantum computing and its potential impact on cryptography and optimization problems
+
+
+### 📈 GitHub Stats
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamOjha&show_icons=true&theme=radical)
+
+### 🤝 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/shubham-ojha/)
+- [Twitter](https://twitter.com/ShubhamOjha5)
+- [Personal Blog](https://shubhamojha.com)
+
+Feel free to reach out if you want to collaborate on a project, discuss the latest in AI, or just have a chat about technology!
+
+---
+
+⭐️ From [ShubhamOjha](https://github.com/ShubhamOjha)
